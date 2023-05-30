@@ -1,4 +1,4 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Leandro." src="./assets/gh-readme-header.png" /></a></p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a020f0&height=120&section=header"/>
 
 
 - 🌱 I’m currently learning **Angular // React**
