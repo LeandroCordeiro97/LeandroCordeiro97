@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **Angular // React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/LeandroCordeiro97](https://github.com/LeandroCordeiro97)
-
 - 📫 How to reach me **leandrocordeiro97@live.com.pt**
 
 
