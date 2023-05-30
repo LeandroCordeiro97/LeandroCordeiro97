@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Leandro Cordeiro</h1>
-<h3 align="center">A passionate frontend developer from Portugal</h3>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Leandro." src="./assets/gh-readme-header.png" /></a></p>
 
 
 - 🌱 I’m currently learning **Angular // React**
