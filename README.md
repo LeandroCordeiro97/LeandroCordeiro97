@@ -1,36 +1,25 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=header"/>
+<h1 align="center">Hi 👋, I'm Leandro Cordeiro</h1>
+<h3 align="center">A passionate frontend developer from Portugal</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6A5ACD&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Leandro+Cordeiro;I'm+25+years+old;I'm+from+Portugal;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=leandrocordeiro97&label=Profile%20views&color=0e75b6&style=flat" alt="leandrocordeiro97" /> </p>
 
+- 🌱 I’m currently learning **Angular // React**
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LeandroCordeiro97&bg_color=0d1117&color=6a5acd&line=6a5acd&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+- 👨‍💻 All of my projects are available at [https://github.com/LeandroCordeiro97](https://github.com/LeandroCordeiro97)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LeandroCordeiro97&theme=algolia&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+- 📫 How to reach me **leandrocordeiro97@live.com.pt**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/leandro-cordeiro-8a7715151/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leandro-cordeiro-8a7715151/" height="30" width="40" /></a>
+<a href="https://fb.com/leandro.cordeiro.9022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="leandro.cordeiro.9022" height="30" width="40" /></a>
+<a href="https://instagram.com/leandroc0rdeir0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leandroc0rdeir0" height="30" width="40" /></a>
+<a href="https://discord.gg/</DarkBoy>#1859" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="</DarkBoy>#1859" height="30" width="40" /></a>
 </p>
 
-<div align="center"> 
-<a href="https://instagram.com/leandroc0rdeir0" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href ="mailto:leandrocordeiro97@live.com.pt"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/leandro-cordeiro-8a7715151/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
-  
-   ### Main skills:
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
- 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
-### Studying in this moment:
- ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leandrocordeiro97&show_icons=true&locale=en&layout=compact" alt="leandrocordeiro97" /></p>
 
-  
-  <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{LeandroCordeiro97}/count.svg" /></p> 
-<br>
-</div>
-
-  
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=footer"/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leandrocordeiro97&show_icons=true&locale=en" alt="leandrocordeiro97" /></p>
