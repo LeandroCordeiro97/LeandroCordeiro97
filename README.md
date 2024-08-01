@@ -24,7 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/leandro-cordeiro-8a7715151/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leandro-cordeiro-8a7715151/" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/https://www.linkedin.com/in/leandro-cordeiro-8a7715151/](https://www.linkedin.com/in/leandro-cordeiro-7b55042b8/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leandro-cordeiro-8a7715151/" height="30" width="40" /></a>
 <a href="https://fb.com/leandro.cordeiro.9022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="leandro.cordeiro.9022" height="30" width="40" /></a>
 <a href="https://instagram.com/leandroc0rdeir0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leandroc0rdeir0" height="30" width="40" /></a>
 <a href="https://discord.gg/</DarkBoy>#1859" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="</DarkBoy>#1859" height="30" width="40" /></a>
