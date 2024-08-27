@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a020f0&height=120&section=header"/>
 
 
-- 🌱 I’m currently learning API
+- 🌱 I’m currently learning Front-End and Back-End
 
 - 📫 How to reach me **leandrocordeiro97@live.com.pt**
 
