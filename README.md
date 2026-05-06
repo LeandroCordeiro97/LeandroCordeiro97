@@ -1,8 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=130&section=header&text=Leandro%20Cordeiro&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20·%20Porto%2C%20Portugal&descAlignY=58&descSize=14"/>
 
-<br/>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=Learning+React+%F0%9F%8C%B1;CSS+%7C+HTML+%7C+JavaScript;Building+cool+things+%F0%9F%9A%80)
 
@@ -61,4 +59,4 @@
   </a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=100&section=footer"/>
+
