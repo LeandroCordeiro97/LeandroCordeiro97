@@ -24,10 +24,7 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=LeandroCordeiro97&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroCordeiro97&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeandroCordeiro97&theme=tokyonight&hide_border=true" />
