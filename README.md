@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=130&section=header&text=Leandro%20Cordeiro&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20·%20Porto%2C%20Portugal&descAlignY=58&descSize=14"/>
+
 
 <br/>
 
@@ -55,4 +55,4 @@
   </a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=100&section=footer"/>
+
